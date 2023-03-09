@@ -108,3 +108,11 @@ footer .send {
   --bs-btn-disabled-bg: var(--second-color);
   --bs-btn-disabled-border-color: var(--second-color);
 }
+
+.dropdown-menu a:hover {
+  background-color: #85b1f1  ;
+  transition: 0.5s;
+}
+.dropdown-menu li {
+  padding-bottom: 5px;
+}
